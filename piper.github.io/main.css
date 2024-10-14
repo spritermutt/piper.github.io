@@ -1,0 +1,15 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+body{
+    background-color: rgb(25, 25, 25);
+   overflow-x: hidden;
+}
+.opacity-text{
+    color: rgba(255, 0, 0, 0);
+    stroke-width: 1px;
+
+}
